@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ficha2522352react.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/ficha2522352react.github.io/static/js/main.b26f8547.js",
+    "static/js/787.373abee8.chunk.js": "/ficha2522352react.github.io/static/js/787.373abee8.chunk.js",
+    "static/media/logo.svg": "/ficha2522352react.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ficha2522352react.github.io/index.html",
+    "main.073c9b0a.css.map": "/ficha2522352react.github.io/static/css/main.073c9b0a.css.map",
+    "main.b26f8547.js.map": "/ficha2522352react.github.io/static/js/main.b26f8547.js.map",
+    "787.373abee8.chunk.js.map": "/ficha2522352react.github.io/static/js/787.373abee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b26f8547.js"
+  ]
+}
